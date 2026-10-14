@@ -1,6 +1,6 @@
 # Deej Volume OSD (Windows 11 Style)
 Displays a modern, anti-aliased Windows 11 volume OSD flyout (matching the native `Fn + F2` overlay) whenever you adjust a physical hardware slider powered by the [**deej**](https://github.com/omriharel/deej) project .
-![](https://github.com/michalkichal2436/deej-osd/blob/main/win11Stlye.gif)
+![](https://github.com/michalkichal2436/deej-osd/blob/main/assets/win11Style.gif)
 
 (Windows 11 Style Compact 1-Line)
 ## Key Features
