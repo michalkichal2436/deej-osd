@@ -1,6 +1,6 @@
 # Deej Volume OSD (Windows 11 Style)
 Displays a modern, anti-aliased Windows 11 volume OSD flyout (matching the native `Fn + F2` overlay) whenever you adjust a physical hardware slider powered by the **deej** project.
-
+![](https://github.com/michalkichal2436/deej-osd/blob/main/win11Stlye.gif)
 ## Key Features
 - **Automatic `config.yaml` Synchronization**: Point the mod to your `config.yaml` file (or leave the path empty to automatically detect a running `deej.exe` instance). The mod parses `slider_mapping` (`master`, `mic`, `system`, `deej.unmapped`, `deej.current`, single process names, and process groups) and hot-reloads whenever the file is saved.
 - **4 Built-in Window Presets**:
